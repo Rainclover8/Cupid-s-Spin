@@ -1,0 +1,45 @@
+{
+    "categories": [
+      {
+        "title": "Aşkı Nerede Bulacaksın?",
+        "answers": [
+          "Bir kitapçıda, en sevdiğin kitabın rafında.",
+          "En sevdiğin kahvecide, yanlışlıkla kahveni alırken.",
+          "Bir konser sırasında, en sevdiğin şarkıya eşlik ederken.",
+          "Hiç ummadığın bir anda, parkta yürürken.",
+          "Online bir etkinlikte, aynı espriye gülerken."
+        ]
+      },
+      {
+        "title": "Aşkı Nasıl Bulacaksın?",
+        "answers": [
+          "Kendin olmayı seçtiğinde.",
+          "Cesur bir adım attığında.",
+          "Bir dostun tanıştırmasıyla.",
+          "Hayata pozitif baktığında.",
+          "Tesadüflerin büyüsüne inandığında."
+        ]
+      },
+      {
+        "title": "Sebilin Şu An Ne Yapıyor?",
+        "answers": [
+          "Sana tatlı bir mesaj atmayı düşünüyor.",
+          "Derin bir sohbetin hayalini kuruyor.",
+          "Senin için bir sürpriz hazırlıyor.",
+          "Yastığa kafasını koymuş, seni düşünüyor.",
+          "Hayallerinde sana gülümsemeye devam ediyor."
+        ]
+      },
+      {
+        "title": "Aşk İçin Bir Tavsiye",
+        "answers": [
+          "Kalbini açık tut, çünkü aşk beklemediğin anda gelir.",
+          "Önce kendini sev, sonra aşk seni bulur.",
+          "Küçük anların tadını çıkar, aşk detaylarda gizlidir.",
+          "Sabırlı ol, doğru kişi zamanı geldiğinde karşına çıkar.",
+          "Aşk her zaman mükemmel değildir, ama gerçek hisler her şeyden değerlidir."
+        ]
+      }
+    ]
+  }
+  
