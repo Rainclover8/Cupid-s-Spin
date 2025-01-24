@@ -25,16 +25,16 @@ export default function Page({ params }: { params: { id: string } }) {
       <h1 className="text-3xl font-bold text-red-600 mb-6">{category.title}</h1>
 
       {randomAnswer && (
-        <div className="bg-yellow-100 text-gray-800 px-6 py-4 rounded-lg text-center text-xl font-semibold mb-6 shadow-md">
+        <div className="bg-yellow-100 text-gray-800 px-6 py-4 rounded-lg text-center text-xl font-semibold mb-6 shadow-lg">
           {randomAnswer}
         </div>
       )}
 
-      <ul className="bg-white shadow-lg p-6 rounded-lg space-y-4">
+      <ul className="bg-white shadow-xl p-6 rounded-lg space-y-4">
         {category.answers.map((answer, index) => (
           <li
             key={index}
-            className="text-lg font-medium text-gray-700 bg-pink-50 px-4 py-2 rounded-md"
+            className="text-lg font-medium text-gray-700 bg-pink-50 px-4 py-2 rounded-lg"
           >
             {answer}
           </li>
